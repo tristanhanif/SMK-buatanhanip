@@ -653,7 +653,6 @@
   
   /* Media Queries for Responsiveness */
   
-  /* Laptop & Desktop */
   @media (min-width: 1025px) {
     .header {
       padding: 20px;
@@ -680,7 +679,6 @@
     }
   }
   
-  /* Laptop Kecil dan Tablet Besar */
   @media (max-width: 1024px) {
     .header {
       flex-direction: column;
@@ -710,7 +708,6 @@
     }
   }
   
-  /* HP Besar */
   @media (max-width: 768px) {
     .header {
       padding: 10px;
@@ -740,7 +737,6 @@
     }
   }
   
-  /* HP Kecil */
   @media (max-width: 425px) {
     body {
       font-size: 14px;
